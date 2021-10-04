@@ -1,0 +1,36 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "test-user1",
+            "mail": "test-user1@test.com"
+        },
+        {
+            "id": 2,
+            "name": "test-user2",
+            "mail": "test-user2@test.com"
+        },
+        {
+            "id": 3,
+            "name": "test-user3",
+            "mail": "test-user3@test.com"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "test1",
+            "author": "test-user1"
+        },
+        {
+            "id": 2,
+            "title": "test2",
+            "author": "test-user2"
+        },
+        {
+            "id": 3,
+            "title": "test3",
+            "author": "test-user3"
+        }
+    ]
+}
